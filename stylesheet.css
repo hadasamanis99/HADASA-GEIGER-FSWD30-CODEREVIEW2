@@ -1,0 +1,117 @@
+body {
+    background-color: #E6E6FA;
+     font-size:20px;
+}
+
+div {
+   	width: 50%;
+    height: 600;
+  }
+
+h2 {
+	width: 100%;
+	text-align: center;
+    font-size:30px;
+}
+
+#tableLeft {
+    padding-top: 25px;
+    padding-bottom: 15px;
+    float:left;
+    width:49%;
+}
+
+#tableRight  {
+    padding-top: 25px;
+    padding-bottom: 15px;
+    width:49%;
+    float:right;
+}
+
+td {
+	width: 100%;
+	font-size:15px;
+}
+
+li{
+   display: inline;
+}
+
+p { 
+	text-align: center;
+ }
+
+
+
+.uppermost {
+    width: 100%;
+    background-color:#000080;
+    color: white;
+    height: 100px;
+    text-align: left;
+    position:relative;
+}
+
+.uppermostFirstTd {
+	width: 50%;
+}
+
+.lowest {
+    width: 100%;
+    background-color:#000080;
+    height: 50px;
+    text-align: center;
+    font-size:20px;
+
+}
+
+.titleline {
+    width: 100%;
+    background-color:grey;
+    height: 80px;
+}
+
+.textAlign {
+    width: 100%;
+	text-align: left;
+	font-size:15px;
+	left:10px;
+}
+
+.myimages {
+    width: 95%;
+    text-align: center; 
+    background-color: white;
+
+}
+.myimg {
+    width: 620px;
+}
+
+#pricediff {
+    margin-left: 45%;
+    text-align: center;    
+    border-radius: 15px;
+    background: #87CEFA;
+    padding: 10px;
+    width: 10%;
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+ }
+
+
+#amsterdamDisp, #londonDisp {
+     font-size:30px;
+}
+
+#amsterdam, #london {
+     font-size:30px;
+     font-weight: bold;
+     color: lightblue;
+}
+
+
+.positioning a{font-weight:normal;text-decoration:none}
+
+.positioning li{float:left;display:inline;padding:5px 9px 6px 18px}
